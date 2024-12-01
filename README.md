@@ -1,2 +1,2 @@
-# lego-components-pro
+# LEGO-COMPONENTS-PRO
 Full Suite of LEGOJS Components Pack.
